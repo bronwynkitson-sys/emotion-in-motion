@@ -69,9 +69,7 @@ To add a new emotion you would add a word list in section 1, write a new class i
 
 Acknowledgements and references  
 
-[ADD YOUR AI ACKNOWLEDGEMENT HERE IF NEEDED]  
-
-[ADD ANY TUTORIALS OR CODE SOURCES YOU USED HERE]  
+I completed this assignment independently and did not use AI to generate my code, written content or creative ideas. All aspects of the project, including the coding, design decisions and development process, were completed by me using my own understanding, research and skills.  
 
 Processing Foundation. (n.d.). Processing (Version 4) [Computer software]. https://processing.org  
 
